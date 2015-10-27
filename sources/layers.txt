@@ -35,4 +35,3 @@ meta-altera-refdes,https://github.com/altera-opensource/meta-altera-refdes,gsrd-
 meta-altera,https://github.com/altera-opensource/meta-altera.git,angstrom-v2014.12-yocto1.7,HEAD
 openembedded-core,git://github.com/openembedded/openembedded-core.git,dizzy,HEAD
 meta-datalogic,git://github.com/iptronix/meta-datalogic.git,master,HEAD
-
