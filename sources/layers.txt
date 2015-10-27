@@ -34,3 +34,5 @@ meta-qualcomm,http://git.linaro.org/people/nicolas.dechesne/meta-qualcomm.git,ma
 meta-altera-refdes,https://github.com/altera-opensource/meta-altera-refdes,gsrd-15.1,c48ec1a7ad05c56320e17faa9d600377741791fd
 meta-altera,https://github.com/altera-opensource/meta-altera.git,angstrom-v2014.12-yocto1.7,HEAD
 openembedded-core,git://github.com/openembedded/openembedded-core.git,dizzy,HEAD
+meta-datalogic,git://github.com/iptronix/meta-datalogic.git,master,HEAD
+
